@@ -3,4 +3,4 @@ Source code for the examples in the e-book version of "Learn Multithreading with
 
 To see all outlets, including local versions of Amazon, <a href="https://books2read.com/u/bOz5MW">click here</a>.
 
-Now also available as a paperback from <a href="https://www.amazon.com/dp/B0BN62H6SS?ref_=pe_3052080_397514860">Amazon</a>!
+Now also available in paperback and hardback from <a href="https://www.amazon.com/dp/B0BN62H6SS?ref_=pe_3052080_397514860">Amazon</a>!
